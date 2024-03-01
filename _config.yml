@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/CompVisualBlog" # the subpath of your site, e.g. /blog
 url: "https://l3borim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  l3borim
-
+github_username:  GabrielOgun 
 # Build settings
 theme: minima
 plugins:

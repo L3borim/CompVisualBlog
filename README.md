@@ -1,1 +1,1 @@
-# CompVisualBlog
+# CompVisualBlog.

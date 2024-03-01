@@ -23,7 +23,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Este Blog é um projeto em conjunto com a disciplina de Computação Visual ministrada pelo Profº André Kishimoto, e tem o objetivo de fixar o aprendizado compartilhando o conhecimento obtido por meio de divulgação de conteúdo semanal à respeito da Computação Visual, explicando os conceitos por trás de maneira simples e descontraída porém com bastante informação e conhecimento.
 baseurl: "/CompVisualBlog" # the subpath of your site, e.g. /blog
 url: "https://l3borim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
+github_usernames:
+  - l3borim
+  - GabrielOgun
 # Build settings
 theme: minima
 plugins:

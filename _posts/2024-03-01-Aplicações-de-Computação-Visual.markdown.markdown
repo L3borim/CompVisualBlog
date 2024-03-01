@@ -16,3 +16,7 @@ Escolhemos essa aplicação pois acreditamos que um dos usos mais importantes do
 
 
 
+`Referências Bibliográficas:`  
+* SYNOPSYS. What is Medical Image Processing? [S.l.], 2024. Disponível em: https://www.synopsys.com/glossary/what-is-medical-image-processing.html#2. Acesso em: 01 mar. 2024.
+* MURTA JUNIOR, Luiz Otávio. Processamento de Imagens Médicas. [S.l.: s.n.], [s.d.]. Disponível em: https://dcm.ffclrp.usp.br/~murta/PIM/PIM_0_Intro.pdf. Acesso em: 01 mar. 2024.
+* Marias K. The Constantly Evolving Role of Medical Image Processing in Oncology: From Traditional Medical Image Processing to Imaging Biomarkers and Radiomics. J Imaging. 2021 Jul 23;7(8):124. doi: 10.3390/jimaging7080124. PMID: 34460760; PMCID: PMC8404911.

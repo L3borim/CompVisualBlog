@@ -11,7 +11,7 @@ categories: Semana02 ComputacaoVisual
    No contexto médico, o processamento de imagens desempenha um papel multifacetado, capacitando os profissionais de saúde a interpretarem e diagnosticar de forma mais precisa e eficiente. Ao empregar técnicas avançadas de processamento de imagens, é possível obter insights significativos que podem levar a diagnósticos mais rápidos e precisos, resultando em melhores resultados para os pacientes. 
 
    Em resumo, o processamento de imagens na medicina representa uma área em constante evolução, impulsionada pela interseção entre tecnologia e cuidados de saúde. À medida que novas técnicas e algoritmos são desenvolvidos, espera-se que o papel do processamento de imagens na medicina continue a expandir, oferecendo novas perspectivas e oportunidades para aprimorar o diagnóstico, o tratamento e o acompanhamento de uma ampla gama de condições médicas.
-Escolhemos essa aplicação pois acreditamos que um dos usos mais importantes do processamento de imagens é na medicina pois auxilia na longevidade da espécie humana.
+  Escolhemos essa aplicação pois acreditamos que um dos usos mais importantes do processamento de imagens é na medicina pois auxilia na longevidade da espécie humana.
 
 
 

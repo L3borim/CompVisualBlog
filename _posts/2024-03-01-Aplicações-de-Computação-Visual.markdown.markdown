@@ -14,9 +14,19 @@ categories: Semana02 ComputacaoVisual
   Escolhemos essa aplicação pois acreditamos que um dos usos mais importantes do processamento de imagens é na medicina pois auxilia na longevidade da espécie humana.
 
 
+* `Visão Computacional na área da saúde:`
+   A visão computacional é uma aplicação de Computação Visual que consiste em buscar uma descrição precisa e eficiente de imagens e vídeos para identificação de objetos e reconhecimento facial, sendo muito presente e importante no setor da saúde, utilizado para análises de imagens como raio-x, radiografias e ressonâncias magnéticas.
+
+   A área de saúde que mais é impactada pela visão computacional é o diagnóstico médico, tendo a capacidade de identificar padrões e anomalias nas imagens como ressonância magnética e tomografia computadorizada, auxiliando os médicos com diagnósticos precoce de doenças, permitindo uma rápida e eficiente intervenção, tendo como uma das principais doenças a serem evitada, o câncer.
+
+   Resumindo, a visão computacional é uma aplicação muito importante da Computação Visual que é usada para uma melhor detalhação de imagens e videos, sendo utilizadas em vários setores do mundo, pelo fato de que é uma tecnologia que ajuda a reconhecer imagens e encontrar padrões dentro delas, sendo essencial para a área da saúde permitindo abordagens de tratamento mais personalizadas e eficazes para cada caso, oferecendo uma promessa de uma medicina  mais  eficiente.
+
+
 
 
 `Referências Bibliográficas:`  
 * SYNOPSYS. What is Medical Image Processing? [S.l.], 2024. Disponível em: https://www.synopsys.com/glossary/what-is-medical-image-processing.html#2. Acesso em: 01 mar. 2024.
 * MURTA JUNIOR, Luiz Otávio. Processamento de Imagens Médicas. [S.l.: s.n.], [s.d.]. Disponível em: https://dcm.ffclrp.usp.br/~murta/PIM/PIM_0_Intro.pdf. Acesso em: 01 mar. 2024.
 * Marias K. The Constantly Evolving Role of Medical Image Processing in Oncology: From Traditional Medical Image Processing to Imaging Biomarkers and Radiomics. J Imaging. 2021 Jul 23;7(8):124. doi: 10.3390/jimaging7080124. PMID: 34460760; PMCID: PMC8404911.
+* SANTO DIGITAL. O que é visão computacional e para que serve. Disponível em: https://santodigital.com.br/o-que-e-visao-computacional-e-para-que-serve/. Acesso em: 01 mar. 2024.
+* AMAZON WEB SERVICES. What is Computer Vision? Disponível em: https://aws.amazon.com/pt/what-is/computer-vision/. Acesso em: 01 mar. 2024.

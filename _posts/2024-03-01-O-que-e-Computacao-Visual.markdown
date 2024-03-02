@@ -10,5 +10,5 @@ Acredito que a disciplina irá mostrar a relação entre programas e imagens, co
 * `Leonardo Borim Silva`  
 Eu penso que a computação visual seja uma área de estudo focada na utilização de recursos computacionais para criação e alteração de imagens e/ou qualquer informação gráfica que aparece na tela.
 
-*`Mateus Yoon`
+* `Mateus Yoon`
 Acredito que iremos aprender como funcianará o processamento de imagens e vídeos, como resolução e também como a imagem é formada e processada, como a forma, intensidade da coloração, e também técnicas sobre pré processamento, entre outras, podendo descobrir como podem ser aplicadas em outras áreas como, por exemplo, medicina.

@@ -24,8 +24,11 @@ categories: Semana02 ComputacaoVisual
 
 * `Computação Gráfica:`  
    No ramo da computação gráfica a sigla vinda do inglês CGI (Computer Graphic Imagery) é comumente conhecida, sendo traduzida justamente como: imagens geradas pelo computador, e é responsável por exercer um papel fundamental para algumas mídias e entretenimento, sendo uma de suas principais aplicações voltada ao universo dos filmes - cinema e programas de televisão.
+
    A tecnologia da CGI permite gerar imagens com três dimensões e profundidade de campo, características essas capazes de causar aquela sensação de que cenários, personagens e objetos estão interagindo entre si como se fossem reais, ou seja, criar a ilusão de que as cenas foram gravadas com os elementos ali fisicamente presentes no ambiente.
+
    Existem diferentes maneiras de usar CGI em filmes. Dentre algumas mais conhecidas temos: a criação de figuras (como animais e criaturas) de forma virtual, usar captações de movimentos e expressões faciais de um ator em um personagem fictício, adicionar paisagens e cenários gerados a partir da conhecida “tela verde”.
+   
    Contudo, é possível justificar a importância da computação gráfica para o cinema visto que é capaz de produzir uma combinação de cenários e elementos impossíveis no mundo real, somando a não necessidade da construção ou disponibilidade de cenários físicos.
 
 `Referências Bibliográficas:`  

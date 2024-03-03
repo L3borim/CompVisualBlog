@@ -12,3 +12,6 @@ Eu penso que a computação visual seja uma área de estudo focada na utilizaç�
 
 * `Mateus Yoon`  
 Acredito que iremos aprender como funcianará o processamento de imagens e vídeos, como resolução e também como a imagem é formada e processada, como a forma, intensidade da coloração, e também técnicas sobre pré processamento, entre outras, podendo descobrir como podem ser aplicadas em outras áreas como, por exemplo, medicina.
+
+* `Samy Idesis`  
+Estimo que nessa disciplina seremos capazes de compreender como qualquer recorte visual é criado, processado e manipulado por programas, estendendo-se a elementos que compõe imagens, tais como: cor, resolução, padrões etc.

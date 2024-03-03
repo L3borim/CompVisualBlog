@@ -38,3 +38,4 @@ categories: Semana02 ComputacaoVisual
 * Marias K. The Constantly Evolving Role of Medical Image Processing in Oncology: From Traditional Medical Image Processing to Imaging Biomarkers and Radiomics. J Imaging. 2021 Jul 23;7(8):124. doi: 10.3390/jimaging7080124. PMID: 34460760; PMCID: PMC8404911.
 * SANTO DIGITAL. O que é visão computacional e para que serve. Disponível em: https://santodigital.com.br/o-que-e-visao-computacional-e-para-que-serve/. Acesso em: 01 mar. 2024.
 * AMAZON WEB SERVICES. What is Computer Vision? Disponível em: https://aws.amazon.com/pt/what-is/computer-vision/. Acesso em: 01 mar. 2024.
+* HARDWARE.COM.BR. O que é CGI? 8 filmes que ficaram marcados pelo uso da computação gráfica. Disponível em: https://www.hardware.com.br/artigos/o-que-e-cgi-8-filmes-que-ficaram-marcados-pelo-uso-da-computacao-grafica/. Acesso em: 01 mar. 2024.

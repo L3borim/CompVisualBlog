@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<div align="center">
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+![mackenzie-logo](./_images/240px-Mackenzie_logo.png)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+</div>
+
+Este Blog é um projeto em conjunto com a disciplina de Computação Visual ministrada pelo Profº André Kishimoto, e tem o objetivo de fixar o aprendizado compartilhando o conhecimento obtido por meio de divulgação de conteúdo semanal à respeito da Computação Visual, explicando os conceitos por trás de maneira simples e descontraída porém com bastante informação e conhecimento.
 
 
-[jekyll-organization]: https://github.com/jekyll
+*Blog criado com* [jekyllrb.com](https://jekyllrb.com/)
+
+

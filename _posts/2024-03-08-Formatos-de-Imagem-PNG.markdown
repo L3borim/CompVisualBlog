@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Formatos de Imagem: PNG"
-date:   2024-08-03 10:50:00 -0300
+date:   2024-03-08 10:48:48 -0300
 categories: Semana03 ComputacaoVisual
 ---
 
@@ -9,9 +9,9 @@ O formato PNG consiste em uma assinatura de identificação de 8 bytes seguida d
 
 Os primeiros oito bytes de um arquivo PNG sempre contêm os seguintes valores:
 
->**(decimal)**   `137  80  78  71  13  10  26  10`
->**(hexadecimal)**    `89  50  4e  47  0d  0a  1a  0a`
->**(ASCII C notation)**    `\211   P   N   G  \r  \n \032 \n`
+>**(decimal)**   `137  80  78  71  13  10  26  10`  
+>**(hexadecimal)**    `89  50  4e  47  0d  0a  1a  0a`  
+>**(ASCII C notation)**    `\211   P   N   G  \r  \n \032 \n`  
 
 Essa assinatura indica que o restante do arquivo contém uma única imagem PNG, consistindo em uma série de pedaços (chunks) que começam com um chunk IHDR e terminam com um chunk IEND.
 PNG define quatro chunks padrão, chamados de chunks críticos, que devem ser suportados por todo leitor e escritor de arquivos PNG. Esses pedaços são os seguintes:
@@ -25,11 +25,8 @@ PNG define quatro chunks padrão, chamados de chunks críticos, que devem ser su
 
 Desses chunks citados, IHDR, IDAT e IEND devem aparecer em todos os fluxos de dados de um PNG.
 
-<div align="center">
 
-![formato-imagem-png](../_images/post_semana03/png-file-format.png)
-
-</div>
+![formato-imagem-PNG-img](../../../../../assets/images/post_semana03/png-file-format-v1.png)
 
 Cada chunk consiste em quatro partes:  
 
@@ -43,10 +40,10 @@ Cada chunk consiste em quatro partes:
 
 Ao utilizar a ferramenta [Nayuki](https://www.nayuki.io/page/png-file-chunk-inspector), que funciona como um inspetor de chunks de imagens em PNG, para dissecar o png (figura 1) podemos verificar a lista de chunks e possíveis erros que violam o formato (figura 2).
 
-![Yuta-example-img](../_images/post_semana03/Yuta_image.png)
+![Yuta-example-img](../../../../../assets/images/post_semana03/Yuta_image.png)
 _Figura 1_
 
-![Nayuki-result-table](../_images/post_semana03/Nayuki-result-table.png)
+![Nayuki-result-table](../../../../../assets/images/post_semana03/Nayuki-result-table.png)
 _Figura 2_
 
 `Referências Bibliográficas:`  

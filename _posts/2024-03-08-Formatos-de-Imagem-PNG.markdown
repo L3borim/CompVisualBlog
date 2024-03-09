@@ -25,7 +25,11 @@ PNG define quatro chunks padrão, chamados de chunks críticos, que devem ser su
 
 Desses chunks citados, IHDR, IDAT e IEND devem aparecer em todos os fluxos de dados de um PNG.
 
-**inserir imagem dos chunks do png**
+<div align="center">
+
+![formato-imagem-png](../_images/post_semana03/png-file-format.png)
+
+</div>
 
 Cada chunk consiste em quatro partes:  
 
@@ -39,8 +43,11 @@ Cada chunk consiste em quatro partes:
 
 Ao utilizar a ferramenta [Nayuki](https://www.nayuki.io/page/png-file-chunk-inspector), que funciona como um inspetor de chunks de imagens em PNG, para dissecar o png (figura 1) podemos verificar a lista de chunks e possíveis erros que violam o formato (figura 2).
 
-**inserir o resto das imagens**
+![Yuta-example-img](../_images/post_semana03/Yuta_image.png)
+_Figura 1_
 
+![Nayuki-result-table](../_images/post_semana03/Nayuki-result-table.png)
+_Figura 2_
 
 `Referências Bibliográficas:`  
 

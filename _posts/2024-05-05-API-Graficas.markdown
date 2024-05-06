@@ -5,10 +5,15 @@ date:   2024-05-05 10:48:48 -0300
 categories: Semana08 ComputacaoVisual
 ---
 
-O termo API significa Application Programming Interface, em português, Interface de Programação de Aplicativos. Ele é um conjunto de padrões de programação que permite a construção de aplicativos, sendo uma forma de dois ou mais programas do computador se comunicarem entre si através de uma série de normas e protocolos. E uma API gráfica é um conjunto de regras que permite ao software enviar informações de polígonos 3D para GPU, sendo dedicada à área de imagem e processamento gráfico 3D
+O termo API significa Application Programming Interface, em português, Interface de Programação de Aplicativos. Ele é um conjunto de padrões de programação que permite a construção de aplicativos, sendo uma forma de dois ou mais programas do computador se comunicarem entre si através de uma série de normas e protocolos. E uma API gráfica é um conjunto de regras que permite ao software enviar informações de polígonos 3D para GPU, sendo dedicada à área de imagem e processamento gráfico 3D.
+
+
 A API gráfica escolhida para a pesquisa foi o DirectX, criada pela Microsoft presente em grandes partes dos jogos eletrônicos. Essa API permite aos softwares dar instruções diretas para os componentes de hardware de áudio e vídeo, melhorando o desempenho das aplicações na execução dos recursos multimídia, sendo muito presente nos jogos já que eles demandam mais aceleração gráfica dos PCs/notebooks.
+
 Linguagens que são suportadas e usadas na API são, CG, se destacando por ter estruturas semelhantes a do C para comandos, podendo ser usado tanto para programas feitos por DirectX, quanto por OpenGL; HLSL, parecido com a linguagem CG, resultado da parceria de desenvolvimento de uma linguagem de shading entre Microsoft e Nvidia.
+
 Toda a documentação oficial da API DirectX é fornecida e atualizada por meio do site da sua empresa desenvolvedora, a Microsoft. O pipeline programável do Direct3D foi projetado com intuito de gerar gráficos para aplicativos de jogos em tempo real. Com base no artigo documentado pela Microsoft, há duas interfaces que definem o pipeline de gráficos, sendo a ID3D11Device responsável pela representação virtual da GPU e seus recursos, e a ID3D11DeviceContext capaz de processar graficamente esses recursos em cada estágio para o pipeline.
+
 Antes mesmo do console Xbox ter seu nome definitivo, tal tecnologia foi decisiva para nomeá-lo durante seu desenvolvimento, possuindo como seu primeiro nome original DirectXbox. Dessa forma, podemos ter noção de como essa API é fundamental para o kit de desenvolvimento de software (SDK) do console, sendo base para criação de jogos e aplicativos para a plataforma.
 
 Abaixo temos um exemplo de código de shader (de pixel) escrito em HLSL e suportado pela DirectX que usa as coordenadas de textura para determinar e devolver a cor de cada pixel.
